@@ -1,0 +1,2 @@
+@echo off
+python "C:\Users\cedri\Documents\python/change_mp3" %*
